@@ -20,7 +20,12 @@ bypass:
   - 172.31.*
   - 192.168.*
   - <local>
-# mine
+  # custome
+  - 43.136.176.32
+  - "*.yumy.top"
+  - "*yumy*"
+  - "yumy.top"
+  - "*.termius.com"
   - "*.msftconnecttest.com"
   - "*.msftncsi.com"
   - "*.cn.overleaf.com"
@@ -37,7 +42,7 @@ bypass:
   - "*.pterclub.com"
   - "*.et8.org"
   - "*.hddolby.com"
-  - "*.dmhy.org"
+#  - "*.dmhy.org"
   - "*announce*"
   - "*torrent*"
   - "*tracker*"
@@ -344,3 +349,4 @@ bypass:
   - "*vpimg*"
   - "*xiami*"
   - "*xiaomi*"
+
